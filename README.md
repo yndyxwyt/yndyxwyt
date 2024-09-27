@@ -1,16 +1,16 @@
-## Hi there 👋
+### Bem vindo ao perfil
 
-<!--
-**yndyxwyt/yndyxwyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e yndy
 
-Here are some ideas to get you started:
+Estou estudando no [Alura](https://www.alura.com.br)
+Estou me envonlvendo na linguagem JavaScript
+Ultiizo esse espaço para organizçao dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra em contato comigo 
+
+d.indianara@escola.pr.gov.br
+
+@ea_sntos_
+
+![](https://media.tenor.com/PJ4-hzHhDyEAAAAM/hi-hey.gif)
+
